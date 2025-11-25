@@ -25,11 +25,33 @@ The study examines key factors such as **convenience, ease of preparation, deliv
 
 Both strands are conducted in parallel and integrated at interpretation.
 
----
+## 📁 Repository Structure
 
+├── data/
+│ ├── qualitative/
+│ │ ├── transcripts/
+│ │ ├── ema_responses/
+│ │ └── f4analyse_project/
+│ ├── quantitative/
+│ │ ├── raw_survey.csv
+│ │ └── analysis_scripts/
+│ └── README_data_description.md
+│
+├── diagrams/
+│ └── workflow.jpg
+│
+├── materials/
+│ ├── screener/
+│ ├── ema_form/
+│ └── interview_protocol/
+│
+├── report/
+│ ├── latex/
+│ ├── manuscript.docx
+│ └── references.bib
+│
+└── README.md
 
-
----
 
 ## 🔁 Reproducibility
 
@@ -62,9 +84,29 @@ The research process follows the pipeline below:
 7. Convergent synthesis and interpretation  
 8. Final reporting  
 
-The workflow diagram is located at:
 
+---
 
+## 🎯 Purpose
 
-## 📁 Repository Structure
+This project aims to:
+
+- Provide HelloFresh with actionable insights for designing culturally relevant meal-kit offerings  
+- Understand cultural and practical factors shaping adoption among Malaysian immigrant parents  
+- Demonstrate the usefulness of **EMA in real kitchen environments**  
+- Contribute to academic research on immigrant food practices and home cooking behaviour  
+
+---
+
+## 👥 Authors
+
+Gentle Gnu Group  
+(Replace with names and CIDs)
+
+---
+
+## 📄 License
+
+This project is for academic use only and not intended for commercial redistribution.
+
 
